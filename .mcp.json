@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ablo-decks": {
+      "type": "http",
+      "url": "https://www.tryablo.com/api/mcp-apps"
+    }
+  }
+}

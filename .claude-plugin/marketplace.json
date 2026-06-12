@@ -1,0 +1,27 @@
+{
+  "name": "ablo-decks",
+  "description": "Official Ablo Decks plugin marketplace \u2014 AI slide decks.",
+  "owner": {
+    "name": "Ablo",
+    "url": "https://www.abloatai.com"
+  },
+  "plugins": [
+    {
+      "name": "ablo-decks",
+      "source": "./",
+      "description": "Official Ablo Decks plugin \u2014 create and edit slide decks with AI. Connects Ablo's deck MCP server so an agent can build presentations directly: slides, layers, themes, layouts, AI image generation, and a screenshot review loop, with every change landing live in the editor.",
+      "category": "productivity",
+      "homepage": "https://www.tryablo.com",
+      "keywords": [
+        "ablo",
+        "slides",
+        "decks",
+        "presentations",
+        "pitch-deck",
+        "slide-deck",
+        "design",
+        "ai-slides"
+      ]
+    }
+  ]
+}
