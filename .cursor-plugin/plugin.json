@@ -18,5 +18,6 @@
     "slide-deck",
     "design",
     "ai-slides"
-  ]
+  ],
+  "logo": "assets/logo.svg"
 }

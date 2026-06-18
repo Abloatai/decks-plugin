@@ -2,7 +2,18 @@
   "mcpServers": {
     "ablo-decks": {
       "type": "http",
-      "url": "https://www.tryablo.com/api/mcp-apps"
+      "url": "https://www.tryablo.com/api/mcp-apps",
+      "title": "Ablo Decks",
+      "description": "Create, inspect, and edit Ablo slide decks.",
+      "websiteUrl": "https://tryablo.com",
+      "icons": [
+        {
+          "src": "https://assets.tryablo.com/images/logo-black.png",
+          "mimeType": "image/png",
+          "sizes": ["512x512"],
+          "theme": "light"
+        }
+      ]
     }
   }
 }
